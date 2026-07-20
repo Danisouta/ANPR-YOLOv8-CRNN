@@ -1,1 +1,11 @@
+# Notebooks
 
+This folder contains the development notebooks for the Malaysian ANPR project.
+
+| Notebook | Description |
+|----------|-------------|
+| 01_DataPreparation_CRNN.ipynb | Prepare OCR dataset |
+| 02_Training_CRNN.ipynb | Train CRNN model |
+| 03_Testing_CRNN.ipynb | Evaluate OCR performance |
+| 04_Integration.ipynb | Integrate YOLO and CRNN |
+| 05_JPJ_Compliance_Check.ipynb | Validate Malaysian license plates |
